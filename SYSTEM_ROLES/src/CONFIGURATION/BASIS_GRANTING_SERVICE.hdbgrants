@@ -53,6 +53,14 @@
                     ]
                 },
                 {
+                    "schema": "CV_MOD",
+                    "name": "CV_QUALITY",
+                    "type": "VIEW",
+                    "privileges_with_grant_option": [
+                        "SELECT"
+                    ]
+                },
+                {
                     "schema": "SYSTEM",
                     "name": "ALTER_JWT_PROVIDER",
                     "type": "PROCEDURE",

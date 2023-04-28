@@ -1,6 +1,6 @@
 _schema-version: "2.1"
 ID: BASIS_ROLES
-version: 0.0.1
+version: 3.0.0
 modules:
 - name: SYSTEM_ROLES
   type: hdb
